@@ -1,9 +1,13 @@
 ABSTRACT OF THE THESIS
+
 Factors Associated with
 Impactful Scientific Publications
 in NIH-Funded Heart Disease Research
+
 by
+
 Diana Rozenshteyn
+
 Master of Science in Computer Science
 San Diego State University, 2023
 
